@@ -4,6 +4,10 @@ RTS-1989 Infra repository
 bastion_IP=51.250.10.65
 someinternalhost_IP=10.128.0.9
 
+reddit-app host info
+testapp_IP = 51.250.74.140
+testapp_port = 9292
+
 Для подключения к хосту к внутреннемму хосту через бастион одной коммандой нужно ввести команду:
 ssh -J 51.250.10.65 10.128.0.9
 
