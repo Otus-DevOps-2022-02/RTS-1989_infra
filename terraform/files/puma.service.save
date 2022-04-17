@@ -1,0 +1,4 @@
+provisioner "file" {
+  source = "files/puma.service"
+  destination = "/tmp/puma.service"
+}
