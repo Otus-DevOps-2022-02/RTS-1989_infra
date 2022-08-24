@@ -24,7 +24,8 @@ Host someinternalhost
 	ProxyJump bastion
 
 Домашнее задание terraform-2
-    Через packer собрал два образа app и bd
-    Добавил три модуля: app, db, vpc
-    Создал два окружения prod и stage
-    Создал бакет для хранения состояния
+
+1) Через packer собрал два образа app и bd
+2) Добавил три модуля: app, db, vpc
+3) Создал два окружения prod и stage
+4) Создал бакет для хранения состояния
