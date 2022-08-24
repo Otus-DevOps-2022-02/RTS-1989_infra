@@ -11,8 +11,3 @@ variable app_disk_image {
 variable subnet_id {
   description = "Subnets for modules"
 }
-
-#variable "private_key_path" {
-#  # Описание переменной
-#  description = "Path to the private key used for ssh access"
-#}

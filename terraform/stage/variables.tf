@@ -35,12 +35,10 @@ variable "private_key_path" {
 
 variable app_disk_image {
   description = "Disk image for reddit app"
-  #default = "reddit-base"
   default = "fd8hpb4pq1dkt6rl521l"
 }
 
 variable db_disk_image {
   description = "Disk image for reddit db"
-  #default = "reddit-base"
   default = "fd8pc32ieqcfn13pb7sa"
 }
