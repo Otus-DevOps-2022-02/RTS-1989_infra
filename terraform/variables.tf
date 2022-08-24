@@ -4,7 +4,7 @@ variable "zone" {
 }
 variable "cloud_id" {
   description = "Cloud"
-  default = ""
+  default     = ""
 }
 variable "folder_id" {
   description = "Folder"

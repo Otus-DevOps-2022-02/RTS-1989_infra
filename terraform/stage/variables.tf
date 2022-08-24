@@ -33,12 +33,12 @@ variable "private_key_path" {
   description = "Path to the private key"
 }
 
-variable app_disk_image {
+variable "app_disk_image" {
   description = "Disk image for reddit app"
-  default = "fd8hpb4pq1dkt6rl521l"
+  default     = "fd8hpb4pq1dkt6rl521l"
 }
 
-variable db_disk_image {
+variable "db_disk_image" {
   description = "Disk image for reddit db"
-  default = "fd8pc32ieqcfn13pb7sa"
+  default     = "fd8pc32ieqcfn13pb7sa"
 }
