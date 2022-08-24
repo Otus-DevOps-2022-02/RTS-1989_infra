@@ -1,0 +1,7 @@
+{
+  "folder_id": "b1gqgr3sicf26b9il30i",
+  "source_image_family": "ubuntu-1604-lts",
+  "service_account_key_file": "/home/russi/secrets/key.json",
+  "disk_name": "reddit-base-1649132805",
+  "disk_size_gb": "10"
+}
